@@ -6,3 +6,5 @@
 #https://github.com/hachubra/NetologyGitHomework/commit/9125c6a171adcfc227f6dd1f34526b0fe48d0b55
 #zadanie 3. 
 #https://github.com/hachubra/NetologyGitHomework/network
+#zadanie 4*.
+#https://github.com/hachubra/NetologyGitHomework/network
